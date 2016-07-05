@@ -1,3 +1,4 @@
-
+*.swp
+*~ #Thou shall not use gedit
 *.class
 *.tar
